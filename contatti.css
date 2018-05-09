@@ -1,0 +1,189 @@
+.principale
+{
+
+background:url("sfondo3.jpg")fixed  center;
+width: auto;
+height: 600;
+}
+
+header
+{
+padding: 2px;
+background-color: #2F4F4F;
+height: auto;
+color: white;
+font-weight: bold;
+text-align: center;
+margin: 0px 40px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
+}
+
+.tit
+{
+font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+font-weight: bold;
+font-size: 500%;
+}
+
+.menu
+{
+
+margin:0px 40px;
+text-align:	center;
+background-color: white;
+width: auto;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
+}
+
+ul
+{
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    position: static;
+	height:auto;
+	top:20;
+}
+li
+{
+display: inline-block;
+margin:	0px;
+padding: 5px;
+text-align: center;
+}
+li:last-child
+{
+border: 0px solid black;
+}
+a
+{
+text-decoration: none;
+color: black;
+padding: 2px;  
+border:	2px transparent solid;
+}
+
+/*.cont
+{
+width: 200px;
+padding: 20px;
+display: inline-block;
+position: center;
+
+}*/
+.hero-image {
+  background-color:#2F4F4F;
+  height:400px;
+  width: 300px;
+  background-position: left;
+  background-repeat: no-repeat;
+  position: relative;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
+
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  
+
+}
+
+.hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
+
+
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white;
+}
+.cristofer
+{
+	display: inline-block;
+	padding-left: 38px;
+	padding-right: 19.5px;
+	padding-top: 10px;
+
+/*	padding-right: 120px;
+	width: 200px;
+	*/
+	
+}
+.contact
+{
+	text-decoration: none;
+	font-size: 25px;
+	color: white;
+	padding-top: 20px;
+	
+
+	
+}
+#overlays 
+{
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.75);
+    z-index: 2;
+    cursor: pointer;
+}
+#overlayss
+{
+	position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.75);
+    z-index: 2;
+    cursor: pointer;
+}
+#overlaysss
+{
+	position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.75);
+    z-index: 2;
+    cursor: pointer;
+}
+p
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 15px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+}
