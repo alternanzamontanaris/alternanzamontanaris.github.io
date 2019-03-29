@@ -1,0 +1,70 @@
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<link rel="stylesheet" href="sito.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+<body>
+<div class="principale">
+
+<header>
+<div class="titolo">
+<h1 class="tit"> <u>ALTERNANZA SCUOLA-LAVORO </u> </h1>
+</div>
+</header>
+<div class="menu">
+<ul>
+<li class="w3-xlarge"><a href="index.html"> <i class="fa fa-home"></i></a></li>
+<li><a href="17ot.html"> 17 ottobre 2016 </a></li>
+<li><a href="18ot.html"> 18 ottobre 2016 </a></li>
+<li><a href="19ot.html"> 19 ottobre 2016 </a></li>
+<li><a href="20ot.html"> 20 ottobre 2016  </a></li>
+<li><a href="21ott.html"> 21 ottobre 2016  </a></li>
+<li><a href="22ot.html"> 22 ottobre 2016 </a></li>
+<li><a href="11no.html"> 11 novembre 2016 </a></li>
+<li><a href="4ma.html"> 4 marzo 2017 </a></li>
+<li><a href="28ma.html"> 28 marzo 2017 </a></li>
+<li><a href="1ap.html"> 1 aprile 2017 </a></li>
+<li><a href="4ap.html"> H-FARM </a></li>
+<li><a href="ol.html"> L'azienda Olivetti </a></li>
+<li><a href="19gen.html"> 19 gennaio 2018 </a></li>
+<li><a href="28apr.html"> 28 aprile 2018 </a></li>
+<li><a href="telereggio.html"> Tirocinio presso TRMEDIA S.R.L </a></li>
+<li><a href="19gen.html"> React </a></li>
+<li><a href="28apr.html"> Incontro con Archimede </a></li>
+
+
+<li class="w3-xlarge"><a href="contatti.html"><i class="fa fa-phone"></i></a></li>
+</ul>
+</div>
+<h1>
+TIROCINIO ESTIVO PRESSO TRMEDIA S.R.L
+</h1>
+
+
+
+<img class="alignleft" src="telereggio.jpg" alt="image" width="400px" height="300px">
+  <p class="articoli" > Dal 21 maggio al 29 giugno 2018 ho partecipato ad uno stage di alternanza scuola-lavoro presso l'azienda TRMEDIA S.R.L.
+Telereggio è una delle prime emittenti televisive privte italiane, fondata nel 1973 a Reggio Emilia.
+L'azienda offre ogni giorno ai suoi telespettatori un'informazione puntuale e tanti programmi originali di approfondimento e intrattenimento.
+
+Io ho lavorato nella redazione del loro sito web.
+Nella redazione web sono presenti Davide e Alessio,  i due giornalisti con cui ho collaborato e con i quali mi sono relazionata maggiormente perché eravamo nello stesso ufficio, che mi hanno spiegato come funziona la piattaforma web e come viene gestita per poi mostrarmi quali sarebbero stati i miei incarichi. <br>
+  <img class="alignright" src="Reggionline.png" alt="image" width="500px" height="300px">Ero in ufficio dalle 9 di mattina alle 17 di pomeriggio e svolgevo svariati compiti: analisi e rielaborazione dei comunicati stampa, redazione di articoli, gestione social network e web, pubblicazione di contenuti sulla piattaforma wordpress e raccolta di informazioni. Lavoravo autonomamente e in seguito il lavoro mi veniva controllato dai miei due colleghi. Alcune volte, quando ci sono stati altri stagisti, lavoravo in gruppo con loro, per esempio scrivevamo un articolo consultandoci.
+Durante questo lavoro mi è stato utile aver conosciuto a scuola la piattaforma di wordpress così ho potuto imparare ciò che dovevo fare in modo più rapido.
+Ho imparato molte cose: la scrittura giornalistica, molto diversa da quella che viene insegnata a scuola perché deve essere più sintetica e diretta; l'importanza di condividere le proprie idee con gli altri colleghi; dei dettagli nell'utlizzo di wordpress e ricercare le notizie ed essere in grado di verificarle. Grazie a questa esperienza mi sono maggiormente interessata alle notizie locali e a ciò che succede nella nostra provincia.  Mi è risultato difficile abituarmi alla scrittura giornalistica e, all'inizio, ricordare i molti incarichi che avevo.
+L'esperienza in generale mi è piaciuta molto, ho iniziato a capire come funziona il mondo del lavoro e quello che mi aspetterà in futuro. Sono soddisfatta di ciò che ho imparato e di come sono stata trattata dagli altri colleghi; l'ambiente di lavoro era ottimo e positivo. Consiglierei a tutti questa esperienza!
+<br>
+<a href="https://prezi.com/view/J5F4Ybu1t2l8HMivv7zh/"> <b>Link della presentazione </b> </a>
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+</p>
